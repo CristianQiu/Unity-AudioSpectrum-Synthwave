@@ -13,7 +13,7 @@ The physical scene is almost completely procedural, only buildings and text have
 Some of the values are animated to match the mood of the testing music used. Although you can still swap the audio file to visualize it the scene animations may glitch depending on the length of the clip. You can click the left button (or tap the screen in Android) to see the debug bars in the UI.
 
 # Preview
-![alt-text](./GithubImgs/TeaserGif.gif)
+![alt-text](./GithubImgs/Teaser.gif)
 
 # Licenses
 Check the licenses of the [music] and [font] used in the demo.
