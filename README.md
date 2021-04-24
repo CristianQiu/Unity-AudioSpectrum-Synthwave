@@ -16,4 +16,4 @@ Some of the values are animated to match the mood of the testing music used. Alt
 ![alt-text](./GithubImgs/Teaser.gif)
 
 # Licenses
-Check the licenses of the [music] and [font] used in the demo.
+Check the licenses of the [music](./Assets/Sounds) and [font](./Assets/Font) used in the demo.
