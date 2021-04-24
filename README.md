@@ -10,7 +10,10 @@ The physical scene is almost completely procedural, only buildings and text have
   - The buildings windows are just an "inverted" grid. Noise is used to turn on and off the window lights based on some beats.
   - I also wanted to carry the demo on my Android mobile (Pixel 3a - Snapdragon 670) so I made it mobile friendly, while keeping the maximum quality I could.
 
-# Additional info
 Some of the values are animated to match the mood of the testing music used. Although you can still swap the audio file to visualize it the scene animations may glitch depending on the length of the clip. You can click the left button (or tap the screen in Android) to see the debug bars in the UI.
 
-# License
+# Preview
+![alt-text](./GithubImgs/TeaserGif.gif)
+
+# Licenses
+Check the licenses of the [music] and [font] used in the demo.
