@@ -114,7 +114,7 @@ Material:
     - _LineWidth: 0.4
     - _Metallic: 0
     - _MinLineWidth: 1
-    - _MountainHeightPeak: 0.07333823
+    - _MountainHeightPeak: 0.075
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueOffset: 0

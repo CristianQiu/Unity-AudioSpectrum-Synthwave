@@ -98,7 +98,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _HorizonHeight: 0.053176593
+    - _HorizonHeight: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -108,16 +108,16 @@ Material:
     - _SkyStripesRepetition: 0.0075
     - _SkyStripesWeight: 0.1
     - _SkyStripesWidth: 0.003
-    - _SkyTintsSun: 0.9601176
+    - _SkyTintsSun: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SunAntialiasing: 3
     - _SunDiscAntialiasing: 3
-    - _SunDiscSize: 0.32531765
+    - _SunDiscSize: 0.32
     - _SunDisk: 0
-    - _SunGradientMidpoint: 0.06647074
+    - _SunGradientMidpoint: 0
     - _SunSize: 0.04
     - _SunSizeConvergence: 5
     - _Surface: 0
