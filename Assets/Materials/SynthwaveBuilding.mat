@@ -44,7 +44,7 @@ Material:
     - _InvGridSize: 2
     - _LineWidth: 0.4
     - _MountainHeightPeak: 0.05
-    - _WindowLightenOffset: 209
+    - _WindowLightenOffset: 363
     - _WindowProbLightenUp: 0.3
     m_Colors:
     - _BuildingColor: {r: 0.20979151, g: 0, b: 0.45283008, a: 1}

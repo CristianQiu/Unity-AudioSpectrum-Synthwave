@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "com.unity.device-simulator": "2.2.4-preview",
-    "com.unity.ide.visualstudio": "2.0.7",
+    "com.unity.device-simulator": "3.0.0-preview",
+    "com.unity.ide.visualstudio": "2.0.9",
     "com.unity.jobs": "0.8.0-preview.23",
-    "com.unity.mobile.android-logcat": "1.2.1",
+    "com.unity.mobile.android-logcat": "1.2.2",
     "com.unity.performance.profile-analyzer": "1.0.3",
-    "com.unity.render-pipelines.universal": "10.4.0",
-    "com.unity.test-framework": "1.1.24",
+    "com.unity.render-pipelines.universal": "10.5.0",
+    "com.unity.test-framework": "1.1.26",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.ugui": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
