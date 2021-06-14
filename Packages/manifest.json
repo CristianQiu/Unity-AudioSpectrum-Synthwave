@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.device-simulator": "3.0.0-preview",
+    "com.unity.device-simulator": "3.0.1-preview",
     "com.unity.ide.visualstudio": "2.0.9",
     "com.unity.jobs": "0.8.0-preview.23",
     "com.unity.mobile.android-logcat": "1.2.2",

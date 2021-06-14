@@ -20,7 +20,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.device-simulator": {
-      "version": "3.0.0-preview",
+      "version": "3.0.1-preview",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
